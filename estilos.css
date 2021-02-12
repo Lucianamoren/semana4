@@ -1,0 +1,312 @@
+body{
+background: url(l.jpg) fixed no-repeat;
+background-size: cover;
+}
+
+@font-face{
+font-family: luci;
+src: url(JackInput.ttf)
+}
+ .luci{
+  position: absolute;
+  font-family: JackInput;
+  top: -8%;
+  left: 45%;
+  font-size: 75px;
+ }
+
+
+@font-face{
+font-family: l2;
+src: url(JackInput.ttf)
+}
+ .l2{
+  position: absolute;
+  font-family: JackInput;
+  top: -5%;
+  left: 43%;
+  font-size: 30px;
+ }
+
+
+
+} 
+ .div{
+  position: absolute;
+  background-image: url(verde.jpg);
+  width: 1348px;
+  height: 100px;
+  left: 1px;
+  top: 40px;
+ }
+
+ .div:hover{
+  background-image: url(azul.jpg);
+ 
+ }
+
+ .b1{
+  position: absolute;
+  color: #B5EBAE;
+       top: 19%;
+      left: 34%;
+        font-family: JackInput;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: #7BBDBC;
+      border: 2px solid #7F9E7B;
+ }
+
+ .b1:hover{
+       background-color: #B5EBAE;
+      font color: white;
+
+ }
+
+ .b2{
+  position: absolute;
+  color: #B5EBAE;
+       top: 19%;
+      left: 46%;
+        font-family: JackInput;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: #7BBDBC;
+      border: 2px solid #7F9E7B;
+ }
+
+ .b2:hover{
+       background-color: #B5EBAE;
+      font color: white;
+ }
+
+ .b3{
+  position: absolute;
+  color: #B5EBAE;
+       top: 19%;
+      left: 58%;
+        font-family: JackInput;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color:  #7BBDBC;
+      border: 2px solid #7F9E7B;
+ }
+
+ .b3:hover{
+       background-color: #B5EBAE;
+      font color: white;
+ }
+
+.div2{
+position: absolute;
+top: 31%;
+left: 2%;
+width: 96%;
+height: 95%;
+background-color: #D0DDDD;
+}
+
+.t1{
+  position: absolute;
+  top: 16%;
+  left: 3%;
+  font-size: 44px;
+  font-family: Cosmos Logic Demo Version;
+
+}
+  .t2{
+  position: absolute;
+  top:-10%;
+  left: 3%;
+  font-size: 80px;
+  font-family: JackInput;
+}
+
+.img{
+position: absolute;
+top: 31%;
+left: 49%;
+width: 48%;
+height: 60%;
+}
+
+.b4{
+  position: absolute;
+  color: #B5EBAE;
+       top: 126%;
+      left: 45%;
+        font-family: JackInput;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color:  #7BBDBC;
+      border: 2px solid #7F9E7B;
+ }
+
+ .b4:hover{
+       background-color: #B5EBAE;
+      font color: white;
+ }
+
+.div22{
+position: absolute;
+top: 140%;
+left: 2%;
+width: 96%;
+height: 96%;
+background-color: #D0DDDD;
+}
+
+.t11{
+  position: absolute;
+ top: 11%;
+left: 2%;
+width: 68%;
+height: 80%;
+
+}
+
+.t13{
+  position: absolute;
+ top: 11%;
+left: 73%;
+width: 68%;
+height: 80%;
+
+}
+  .t22{
+  position: absolute;
+  top: -10%;
+  left: 3%;
+  font-size: 80px;
+  font-family: JackInput;
+}
+
+.img2{
+position: absolute;
+top: 31%;
+left: 49%;
+width: 50%;
+height: 60%;
+}
+
+.b5{
+  position: absolute;
+  color: #B5EBAE;
+       top: 236%;
+      left: 45%;
+        font-family: JackInput;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color:  #7BBDBC;
+      border: 2px solid #7F9E7B;
+ }
+
+ .b5:hover{
+       background-color: #B5EBAE;
+      font color: white;
+ }
+
+
+.div222{
+position: absolute;
+top: 250%;
+left: 2%;
+width: 96%;
+height: 110%;
+background-color: #D0DDDD;
+}
+
+.t111{
+  position: absolute;
+  top: 8%;
+  left: 3%;
+  font-size: 38px;
+  font-family: Cosmos Logic Demo Version;
+
+}
+  .t222{
+  position: absolute;
+top: -11%;
+  left: 3%;
+  font-size: 80px;
+  font-family: JackInput;
+}
+
+.img3{
+position: absolute;
+top: 31%;
+left: 49%;
+width: 50%;
+height: 60%;
+}
+.b6{
+  position: absolute;
+  color: #B5EBAE;
+       top: 360%;
+      left: 45%;
+        font-family: JackInput;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color:  #7BBDBC;
+      border: 2px solid #7F9E7B;
+ }
+
+ .b6:hover{
+       background-color: #B5EBAE;
+      font color: white;
+ }
+
